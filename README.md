@@ -2,7 +2,7 @@
 - 👀 I’m interested in Fullstack Web-Applications
 - 🌱 I’m currently learning Frontend and Backend development
 - 💞️ I’m looking to collaborate on making web applications
-- 📫 How to reach me? Contanct me at bryanavila998@gmail.com
+- 📫 How to reach me? Contact me at bryanavila998@gmail.com
 
 <!---
 demondazeee/demondazeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
